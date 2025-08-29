@@ -1,3 +1,4 @@
 let numero = 10;
-
-comsole.log(numero);
+let nome = "Arthur";
+console.log(numero);
+console.log(nome);
