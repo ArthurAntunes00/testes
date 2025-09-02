@@ -1,4 +1,4 @@
-let numero = 20;
-let nome = "Joao";
+let numero = 11;
+let nome = "Mauro";
 console.log(numero);
 console.log(nome);
