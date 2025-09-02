@@ -1,4 +1,4 @@
-let numero = 10;
+let numero = 5;
 let nome = "Arthur";
 console.log(numero);
 console.log(nome);
